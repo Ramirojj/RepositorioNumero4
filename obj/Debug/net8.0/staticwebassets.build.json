@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "gqOYCsRXuWgEeSSNBxMEOp1C5bIMd3EzthLY43bOmmQ=",
+  "Source": "NoerthWind",
+  "BasePath": "_content/NoerthWind",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NoerthWind/wwwroot",
+      "Source": "NoerthWind",
+      "ContentRoot": "/Users/ramirojaimes/NoerthWind/wwwroot/",
+      "BasePath": "_content/NoerthWind",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ramirojaimes/NoerthWind/wwwroot/client.css",
+      "SourceId": "NoerthWind",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ramirojaimes/NoerthWind/wwwroot/",
+      "BasePath": "_content/NoerthWind",
+      "RelativePath": "client.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/client.css"
+    }
+  ]
+}

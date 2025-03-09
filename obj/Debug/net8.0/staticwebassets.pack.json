@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ramirojaimes/NoerthWind/wwwroot/client.css",
+      "PackagePath": "staticwebassets/client.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NoerthWind.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.NoerthWind.props",
+      "PackagePath": "build\\NoerthWind.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NoerthWind.props",
+      "PackagePath": "buildMultiTargeting\\NoerthWind.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NoerthWind.props",
+      "PackagePath": "buildTransitive\\NoerthWind.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
